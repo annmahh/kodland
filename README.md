@@ -2,7 +2,7 @@
  
  Сервис реализации бизнес-процесса HR-департамента Kodland
  
- Пользовательский интерфейс – консольный.
+ Пользовательский интерфейс – консольный
 
 Cодержит следующие функции:
 - CRUD стержневых сущностей (create, read, update, delete)
@@ -17,12 +17,13 @@ Cодержит следующие функции:
 - JDBC (H2 v.2.0.202)
 
 Дополнительно:
-- JUnit (Junit v.4.13.1)
-- MongoDB (mongo-java-driver v.3.12.6)
+- JUnit (v.4.13.1)
+- MongoDB (v.3.12.6)
 - Maven
 
 Use Case Diagram
-![UseCaseDiagram](https://user-images.githubusercontent.com/49367604/147885516-0db09cbd-e125-4627-a5a2-e86018de3405.png)
+![UseCaseDiagram [DetalizationTable.pdf](https://github.com/annmahh/kodland/files/7799566/DetalizationTable.pdf)
+](https://user-images.githubusercontent.com/49367604/147885516-0db09cbd-e125-4627-a5a2-e86018de3405.png)
 [DetalizationTable.pdf](https://github.com/annmahh/kodland/files/7799566/DetalizationTable.pdf)
 
 Class Diagram
