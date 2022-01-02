@@ -1,8 +1,6 @@
 # kodland
  
- Сервис реализации бизнес-процесса HR-департамента Kodland
- 
- Пользовательский интерфейс – консольный
+Сервис реализации бизнес-процесса HR-департамента Kodland (интерфейс консольный)
 
 Cодержит следующие функции:
 - CRUD стержневых сущностей (create, read, update, delete)
@@ -22,8 +20,7 @@ Cодержит следующие функции:
 - Maven
 
 Use Case Diagram
-![UseCaseDiagram [DetalizationTable.pdf](https://github.com/annmahh/kodland/files/7799566/DetalizationTable.pdf)
-](https://user-images.githubusercontent.com/49367604/147885516-0db09cbd-e125-4627-a5a2-e86018de3405.png)
+![UseCaseDiagram](https://user-images.githubusercontent.com/49367604/147885516-0db09cbd-e125-4627-a5a2-e86018de3405.png)
 [DetalizationTable.pdf](https://github.com/annmahh/kodland/files/7799566/DetalizationTable.pdf)
 
 Class Diagram
