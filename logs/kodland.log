@@ -1,0 +1,38 @@
+2022-01-02 20:08:31,072 INFO r.s.k.a.XMLDataProvider [main] Employee{id=1, name='NovitskayaAI, gender='true, age='16, jobId=1, departmentId=1, dateStart='01.01.2020, dateEnd='null}
+2022-01-02 20:08:31,072 INFO r.s.k.a.XMLDataProvider [main] Employee{id=1, name='NovitskayaAI_UPD, gender='true, age='23, jobId=1, departmentId=1, dateStart='01.01.2020, dateEnd='01.12.2021}
+2022-01-02 20:09:29,144 INFO r.s.k.a.CSVDataProvider [main] Employee{id=1, name='NovitskayaAI, gender='true, age='16, jobId=1, departmentId=1, dateStart='01.01.2020, dateEnd='null}
+2022-01-02 20:09:29,144 INFO r.s.k.a.CSVDataProvider [main] Employee{id=1, name='NovitskayaAI_UPD, gender='true, age='23, jobId=1, departmentId=1, dateStart='01.01.2020, dateEnd='01.12.2021}
+2022-01-02 20:09:29,144 INFO r.s.k.a.CSVDataProvider [main] Start getEmployeeById(Integer id))
+2022-01-02 20:09:29,144 DEBUG r.s.k.a.CSVDataProvider [main] 1
+2022-01-02 20:09:29,363 INFO r.s.k.a.CSVDataProvider [main] Start delEmployeeById(Integer id)
+2022-01-02 20:09:29,363 DEBUG r.s.k.a.CSVDataProvider [main] 1
+2022-01-02 20:09:29,363 INFO r.s.k.a.CSVDataProvider [main] Start getEmployeeById(Integer id))
+2022-01-02 20:09:29,363 DEBUG r.s.k.a.CSVDataProvider [main] 1
+2022-01-02 20:09:29,394 INFO r.s.k.a.CSVDataProvider [main] Start updEmployee(Employee obj)
+2022-01-02 20:09:29,394 DEBUG r.s.k.a.CSVDataProvider [main] Employee{id=1, name='NovitskayaAI_UPD, gender='true, age='23, jobId=1, departmentId=1, dateStart='01.01.2020, dateEnd='01.12.2021}
+2022-01-02 20:09:29,394 INFO r.s.k.a.CSVDataProvider [main] Start getEmployeeById(Integer id))
+2022-01-02 20:09:29,394 DEBUG r.s.k.a.CSVDataProvider [main] 1
+2022-01-02 20:09:29,426 INFO r.s.k.a.CSVDataProvider [main] Start addEmployee(Employee obj)
+2022-01-02 20:09:29,426 DEBUG r.s.k.a.CSVDataProvider [main] Employee{id=1, name='NovitskayaAI, gender='true, age='16, jobId=1, departmentId=1, dateStart='01.01.2020, dateEnd='null}
+2022-01-02 20:09:29,426 INFO r.s.k.a.CSVDataProvider [main] Start getEmployeeById(Integer id))
+2022-01-02 20:09:29,426 DEBUG r.s.k.a.CSVDataProvider [main] 1
+2022-01-02 20:09:29,473 INFO r.s.k.a.CSVDataProvider [main] Start updEmployee(Employee obj)
+2022-01-02 20:09:29,473 DEBUG r.s.k.a.CSVDataProvider [main] Employee{id=1, name='NovitskayaAI_UPD, gender='true, age='23, jobId=1, departmentId=1, dateStart='01.01.2020, dateEnd='01.12.2021}
+2022-01-02 20:09:29,473 INFO r.s.k.a.CSVDataProvider [main] Start getEmployeeById(Integer id))
+2022-01-02 20:09:29,473 DEBUG r.s.k.a.CSVDataProvider [main] 1
+2022-01-02 20:09:29,488 INFO r.s.k.a.CSVDataProvider [main] Start delEmployeeById(Integer id)
+2022-01-02 20:09:29,488 DEBUG r.s.k.a.CSVDataProvider [main] 1
+2022-01-02 20:09:29,488 INFO r.s.k.a.CSVDataProvider [main] Start getEmployeeById(Integer id))
+2022-01-02 20:09:29,488 DEBUG r.s.k.a.CSVDataProvider [main] 1
+2022-01-02 20:09:29,531 INFO r.s.k.a.CSVDataProvider [main] Start getEmployeeById(Integer id))
+2022-01-02 20:09:29,531 DEBUG r.s.k.a.CSVDataProvider [main] 1
+2022-01-02 20:09:29,547 INFO r.s.k.a.CSVDataProvider [main] Start addEmployee(Employee obj)
+2022-01-02 20:09:29,547 DEBUG r.s.k.a.CSVDataProvider [main] Employee{id=1, name='NovitskayaAI, gender='true, age='16, jobId=1, departmentId=1, dateStart='01.01.2020, dateEnd='null}
+2022-01-02 20:09:29,547 INFO r.s.k.a.CSVDataProvider [main] Start getEmployeeById(Integer id))
+2022-01-02 20:09:29,563 DEBUG r.s.k.a.CSVDataProvider [main] 1
+2022-01-02 20:09:29,578 INFO r.s.k.a.CSVDataProvider [main] Start delEmployeeById(Integer id)
+2022-01-02 20:09:29,578 DEBUG r.s.k.a.CSVDataProvider [main] 1
+2022-01-02 20:09:29,578 INFO r.s.k.a.CSVDataProvider [main] Start getEmployeeById(Integer id))
+2022-01-02 20:09:29,578 DEBUG r.s.k.a.CSVDataProvider [main] 1
+2022-01-02 20:09:29,625 INFO r.s.k.a.CSVDataProvider [main] Start getEmployeeById(Integer id))
+2022-01-02 20:09:29,625 DEBUG r.s.k.a.CSVDataProvider [main] 1
